@@ -103,6 +103,9 @@ body{
     visibility: visible;
     bottom: 50px;
     opacity: 1;
+}
 
+.hide{
+    display: none;
 }
 
